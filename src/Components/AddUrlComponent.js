@@ -26,7 +26,7 @@ const AddUrlComponent = () => {
     console.log(url)
 
   return (
-    <div className=''>
+    <div>
       <main>
         <section className="flex flex-col justify-center items-center">
           <h1 className="text-sky-500 text-3xl mb-4">Cloudraker <span className="text-yellow-500">URL Shortener</span></h1>
